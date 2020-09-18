@@ -30,6 +30,7 @@ University projects
 * Now
 ** Netcracker courses
 ** RSSchool courses
+** Samara National Research University
 
 --------
 Contacts
