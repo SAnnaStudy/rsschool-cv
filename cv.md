@@ -1,6 +1,6 @@
 #   Curriculum vitae
 
----------
+
 About myself
 ---------
 
@@ -12,27 +12,28 @@ Despite my laziness, I learn quickly and try to complete all tasks on time)
 
 
 **Languegies**
-*Russian
-*English(A2)
-*C#
-*HTML/CSS
-*Javascript
+* Russian
+* English(A2)
+* C#
+* HTML/CSS
+* Javascript
 
 **Work experience**
+
 University projects
 * WebSait
 * Labs
 
 **Education**
 * Completed
-** Secondary school
+    * Secondary school
 
 * Now
-** Netcracker courses
-** RSSchool courses
-** Samara National Research University
+    * Netcracker courses
+    * RSSchool courses
+    * Samara National Research University
 
---------
+
 Contacts
 --------
 **Email** Saenkovanna@gmail.com
