@@ -1,0 +1,17 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+    
+    background-color:cornsilk;
+}
+.container {
+	margin: 0 auto;
+	width: 1000px;
+}
+.myphoto{
+    height: 300px;
+    width: 500px;
+}
+.footer{
+     height: 50px;
+     display: block;
+}
