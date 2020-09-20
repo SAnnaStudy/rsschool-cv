@@ -1,1 +1,1 @@
-https://SAnnaStudy.io/rsschool-cv/cv
+https://SAnnaStudy.io/rsschool-cv/
